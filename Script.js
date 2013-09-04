@@ -3,7 +3,7 @@
   //The page of the site you wish to add all the site links to
   //Prerequisites: The Site and Page specified in the user supplied URL exist, and the user of this script has ownership rights to both.
   //PLEASE NOTE: The content of the page will be replaced  
-  var navigationURLPage = 'https://sites.google.com/a/myport.ac.uk/templategs/navigation';  
+  var navigationURLPage = 'https://sites.google.com/site/creatortemplate/navigation';  
   
   //The site you wish all created sites to look like.
   //Prerequisites: The Site exists and the user of this script has ownership rights to the template site.
